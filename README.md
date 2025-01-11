@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Currently a physicsist at the University of Rochester
+## Studying interface physics and laser matter interaction with the High Intensity Femtosecond Laser Lab
 <!--
 **Akeel-Faris/Akeel-Faris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
